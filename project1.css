@@ -1,0 +1,64 @@
+
+.anil
+{
+    background-image:url('images/bg1.jpg');
+    min-height:400px;
+    background-size:cover;
+    background-attachment: fixed;
+}
+.container-fluid
+{
+    background-color:whitesmoke;
+}
+.container-fluid h3
+{
+    color:orange;
+}
+.container-fluid img
+{
+    height:50px;
+    width:180px;
+}
+.container-fluid button
+{
+    height:50px;
+    background-color:orangered;
+    border-radius:10px;
+    border:1px solid white;
+    color:white;
+    width:150px;
+
+}
+.topnav
+{
+    background-color:blue;
+    min-height:50px;
+    overflow:hidden;
+}
+.topnav a
+{
+    display:block;
+    text-align:center;
+    padding:14px 16px;
+    text-decoration: none;
+    size:17px;
+    float:left;
+    color:white;
+}
+
+.formpre
+{
+    height:100px;
+    background-color:blue;
+    color:white; 
+}
+.btn button
+{
+    height:50px;
+    width:150px;
+    border:1px solid white;
+    border-radius:10px;
+    background-color:orangered;
+    color:white;
+    
+}
